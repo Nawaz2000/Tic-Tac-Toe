@@ -1,5 +1,6 @@
 /*
 Project: TIC TAC TOE
+Language: C
 @author: Nawaz2000
 @version: 2.0
 */
